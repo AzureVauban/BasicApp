@@ -104,6 +104,9 @@ export default function Index() {
         >
           <Text style={styles.buttonText}>BUTTON C</Text>
         </TouchableOpacity>
+        <Text style={
+          styles.buttonText
+        }>Click on some of these buttons to see something cool happen!</Text>
       </View>
     </View>
   );
